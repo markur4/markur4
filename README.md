@@ -7,10 +7,8 @@ I love writing Python code since 2018. I enjoy automating tedious tasks like exc
 ---
 
 - 🔭 **I’m currently working ...**
-  - ... on my first large open source project [plotastic](https://github.com/markur4/plotastic), a library I wrote after my experiences of handling the data gathered over 5 years of lab-work!
   - ... on wrapping up my PHD thesis on the dissemination of [multiple myeloma](https://en.wikipedia.org/wiki/Multiple_myeloma) from the bone marrow
 - 🌱 **I’m currently learning ...**
-  - ... how to publish open source software at [JOSS](https://joss.theoj.org/)
   - ... to apply standards of software development
   - ... how to collaborate on github! 
 - 🤔 **I’m looking for help** with making [plotastic](https://github.com/markur4/plotastic) fool-proof!
