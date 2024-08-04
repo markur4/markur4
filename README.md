@@ -2,7 +2,7 @@
 
 I'm a Python enthusiast with a background in cell biology and I'm looking to expand into data science and bioinformatics! I started with biochemistry & molecular biology (M.Sc. 2017) and after that, I went to pursue a PHD in cancer biomedicine starting 2018. 
 
-I love writing Python code since 2018. I enjoy automating tedious tasks like excel-related things, making beautiful plots and statistical analysis. 
+I love writing Python code since 2018. I enjoy automating tedious tasks like excel-related things, making beautiful plots, statistical analysis and image Processing
 
 ---
 
@@ -11,7 +11,7 @@ I love writing Python code since 2018. I enjoy automating tedious tasks like exc
 - ⚡ **Fun fact:** My *profile-picture* was made during that NFT sideproject of mine called [turtleshapes](https://opensea.io/collection/turtleshapes-1)
 - 📫 **How to reach me:**
   - Best write me an email: `martin.kur4@gmail.com` 
-  -  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/martin-kuric/?locale=en_US) 
+  - [LinkedIn](https://www.linkedin.com/in/martin-kuric/?locale=en_US)
 
 - 
 <!--
