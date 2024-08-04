@@ -2,7 +2,7 @@
 
 I'm a Python enthusiast with a background in cell biology and I'm looking to expand into data science and bioinformatics! I started with biochemistry & molecular biology (M.Sc. 2017) and after that, I went to pursue a PHD in cancer biomedicine starting 2018. 
 
-I love writing Python code since 2018. I enjoy automating tedious tasks like excel-related things, making beautiful plots, statistical analysis and image Processing
+I love writing Python code since 2018. I enjoy automating tedious tasks like excel-related things, making beautiful plots, statistical analysis and image processing.
 
 ---
 
