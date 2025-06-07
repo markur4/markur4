@@ -2,14 +2,15 @@
 
 I am a cell biologist that turned into a software developer!
 
-#### Current Job:
+### 💼 Current Job:
 - Group: [ADWG](https://adw-goe.de/en/home/): 18 long-term Projects, including digital knowledge transfer.
 - Project: [HisQu](https://github.com/HisQu): Integrating historical sources and making them accessible to scientists.
 
 ---
-#### Technologies:
-- **Python:**  100% + all the best practices from other languages!
+### 💡 Current Technologies:
+- **Python:**  100% + all the best practices known to coders!
 - **AI / ML:** T2T, T2I, RAG, Local servers, Agents, etc.
+
 
 ---
 #### Interests:
