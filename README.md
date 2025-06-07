@@ -3,8 +3,8 @@
 I am a cell biologist that turned into a software developer!
 
 ### 💼 Current Job:
-- Group: [ADWG](https://adw-goe.de/en/home/): 18 long-term Projects, including digital knowledge transfer.
-- Project: [HisQu](https://github.com/HisQu): Integrating historical sources and making them accessible to scientists.
+- Group [ADWG](https://adw-goe.de/en/home/): 18 long-term Projects, including digital knowledge transfer.
+- Project [HisQu](https://github.com/HisQu): Integrating historical sources and making them accessible to scientists.
 
 ---
 ### 💡 Current Technologies:
