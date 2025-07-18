@@ -24,7 +24,7 @@
 <br>
 
 ## 💡 Current Technologies:
-- **Python –** not just a daily driver for automation & data science!
+- **Python –** more than a daily driver for automation & data science!
 - **AI –** text‑to‑text, text‑to‑image, open‑source models, etc
 - **RAG –** [lightRAG](https://github.com/HKUDS/LightRAG), etc.
 - **Web-Dev –** Learning `Django` & other frameworks!
