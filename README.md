@@ -1,4 +1,7 @@
 [LinkedIn]: https://www.linkedin.com/in/martin-kuric/?locale=en_US
+[Xing]: https://www.xing.com/profile/Martin_Kuric/web_profiles
+[get in IT]: https://www.get-in-it.de/profil/OT23A8ToammejOrUsSTaOvWyUQkHZhgQ
+[martin.kur4@gmail.com]: mailto:martin.kur4@gmail.com
 [**Scientific Software Developer** @ ADWG, Germania Sacra]: https://adw-goe.de/germania-sacra/hisqu/
 [HisQu]: https://github.com/HisQu
 [NFTs]: https://opensea.io/collection/turtleshapes-1
@@ -13,7 +16,9 @@
 
 # Hi there 👋
 
-**I'm a software developer & Ph.D. biologist building open‑source research tooling**
+**_I'm Martin – Software Developer & Doctor of Natural Sciences_**
+
+ [LinkedIn] • [Xing] • [get in IT] • [martin.kur4@gmail.com]
 
 
 <br>
@@ -42,25 +47,22 @@
   **Digital Humanities –** Developing a scientific data-infrastructue for historical data (Project [HisQu])
 
 - [**Doctorate** @ Uni Würzburg]:  
-  **Biomedicine | Statistics –** Identified [~100 genes] linked to metastasis; Developed [`plotastic`] for analytics; Wrote [Thesis] in `LaTex`,
+  **Biomedicine | Statistics –** Identified [~100 genes] linked to metastasis – Developed [`plotastic`] for analytics – Wrote [Thesis] in `LaTex`,
 
 - [**Master Thesis** @ Uni Bayreuth]:  
-  **RNA-Biochemistry | Bioinformatics –** IVT of siRNAs; Preparation of an RNAseq library; Mapped rRNA to Genome; Analysed NGS data.
+  **RNA-Biochemistry | Bioinformatics –** IVT of siRNAs – Prepared RNAseq library – Mapped rRNA to Genome – Analysed NGS data.
 
 <br>
 
-## Other Projects:
+## 🧩 Other Projects:
 
 - **[Turtleshapes] –** NFT art with [L‑Systems](https://en.wikipedia.org/wiki/L-system) 
 - **[Build-Benedictions] –**  cookie cutter integrating [just](https://github.com/casey/just) and [direnv](https://github.com/direnv/direnv)
-- Dozens more that I probably forgot...
+- ... Dozens more!
 
 <br>
 
 ---
-
-### 📫 Contact:  
-[LinkedIn] • `martin.kur4@gmail.com`
 
 
 <!--
