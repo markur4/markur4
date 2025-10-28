@@ -47,7 +47,7 @@
   **Digital Humanities –** Developing a scientific data-infrastructue for historical data (Project [HisQu])
 
 - [**Doctorate** @ Uni Würzburg]:  
-  **Biomedicine | Statistics –** Identified [~100 genes] linked to metastasis – Developed [`plotastic`] for analytics – Wrote [Thesis] in `LaTex`,
+  **Biomedicine | Statistics –** Linked [~25 genes] to patient survival & metastasis – Developed [`plotastic`] for analytics – Wrote [Thesis] in `LaTex`,
 
 - [**Master Thesis** @ Uni Bayreuth]:  
   **RNA-Biochemistry | Bioinformatics –** IVT of siRNAs – Prepared RNAseq library – Mapped rRNA to Genome – Analysed NGS data.
