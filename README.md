@@ -6,7 +6,7 @@
 [HisQu]: https://github.com/HisQu
 [NFTs]: https://opensea.io/collection/turtleshapes-1
 [`plotastic`]: https://joss.theoj.org/papers/10.21105/joss.06304
-[~100 genes]: https://pubmed.ncbi.nlm.nih.gov/38598843
+[~25 genes]: https://pubmed.ncbi.nlm.nih.gov/38598843
 [**Doctorate** @ Uni Würzburg]: https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/40201
 [Thesis]: https://github.com/markur4/Dissertation/tree/main/THESIS
 [**Master Thesis** @ Uni Bayreuth]: https://www.kuhnlab.uni-bayreuth.de/en/team/index.html
