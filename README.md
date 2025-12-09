@@ -57,7 +57,7 @@
 ## 🧩 Other Projects:
 
 - **[Turtleshapes] –** NFT art with [L‑Systems](https://en.wikipedia.org/wiki/L-system) 
-- **[Build-Benedictions] –**  cookie cutter integrating [just](https://github.com/casey/just) and [direnv](https://github.com/direnv/direnv)
+- **[Build-Benedictions] –**  cookie cutter integrating [just](https://github.com/casey/just), [direnv](https://github.com/direnv/direnv) and [uv](https://github.com/astral-sh/uv)
 - ... Dozens more!
 
 <br>
