@@ -6,40 +6,41 @@
 [`uv`]: https://github.com/astral-sh/uv
 [PEP 621]: https://peps.python.org/pep-0621/
 
-[Huggingface]: https://huggingface.co/
+[Synthography]: https://benjifriedman.com/synthography
+
+[Hugging Face]: https://huggingface.co/
 [PyPI]: https://pypi.org/user/markur/
 
 [L-Systems]: https://en.wikipedia.org/wiki/L-system
 [Turtleshapes]: https://opensea.io/collection/turtleshapes-1
 
-[BuildBen]: https://github.com/HisQu/buildben
-
-[graphigs]: https://github.com/markur4/graphigs
+[`buildben`]: https://github.com/HisQu/buildben
+[`graphigs`]: https://github.com/markur4/graphigs
 
 [Semantic Web]: https://de.wikipedia.org/wiki/Semantic_Web
 
-[just]: https://github.com/casey/just
-[direnv]: https://github.com/direnv/direnv
+[`just`]: https://github.com/casey/just
+[`direnv`]: https://github.com/direnv/direnv
 
-[jupyter]: https://jupyter.org/
+[`jupyter`]: https://jupyter.org/
 
-[lightRAG]: https://github.com/HKUDS/LightRAG
-[AppRC]: https://github.com/HisQu/apprc
-[typer]: https://github.com/fastapi/typer
-[typed-settings]: https://typed-settings.readthedocs.io/en/latest/
-[rdflib]: https://github.com/rdflib/rdflib
+[`lightrag`]: https://github.com/HKUDS/LightRAG
+[`apprc`]: https://github.com/HisQu/apprc
+[`typer`]: https://github.com/fastapi/typer
+[`typed-settings`]: https://typed-settings.readthedocs.io/en/latest/
+[`rdflib`]: https://github.com/rdflib/rdflib
 [`gradio`]: https://github.com/gradio-app/gradio
-[textual]: https://github.com/textualize/textual
-[toga]: https://github.com/beeware/toga
-[openai]: https://github.com/openai/openai-python
+[`textual`]: https://github.com/textualize/textual
+[`toga`]: https://github.com/beeware/toga
+[`openai`]: https://github.com/openai/openai-python
 
 [NFTs]: https://opensea.io/collection/turtleshapes-1
 
-[plotastic]: https://joss.theoj.org/papers/10.21105/joss.06304
-[seaborn]: https://github.com/mwaskom/seaborn
-[pingouin]: https://github.com/raphaelvallat/pingouin
-[graphviz]: https://graphviz.org/
-[pillow]: https://github.com/python-pillow/Pillow
+[`plotastic`]: https://joss.theoj.org/papers/10.21105/joss.06304
+[`seaborn`]: https://github.com/mwaskom/seaborn
+[`pingouin`]: https://github.com/raphaelvallat/pingouin
+[`graphviz`]: https://graphviz.org/
+[`pillow`]: https://github.com/python-pillow/Pillow
 
 [HisQu]: https://github.com/HisQu
 [**Scientific Software Developer** @ ADWG, Germania Sacra]: https://adw-goe.de/germania-sacra/hisqu/
@@ -51,11 +52,11 @@
 
 # Hi there 👋
 
-**_I'm Martin – Software Developer & Doctor of Natural Sciences_**
+**_I'm Martin – Software Developer & Doctor of Natural Sciences_**
 
 *(he/him)*
 
- [LinkedIn] • [Xing] • [get in IT] • [martin.kur4@gmail.com]
+[LinkedIn] • [Xing] • [get in IT] • [martin.kur4@gmail.com]
 
 <br>
 
@@ -63,41 +64,40 @@
 
 <br>
 
-## 😍 I Like:
+## 😍 I Like
 
+- **LLMs –** Agents, local inference with open-weight models.
+- **RAG –** Graph-based retrieval and hybrid search – [`lightrag`] [`rdflib`]
+- **Diffusion Models –** AI-Art, [Synthography], local LoRA training.
 - **Data Science & Engineering –** Big data, analysis, automation, reproduciblity, etc.
-- **AI –** Agents, LoRA training, t2t, t2i, i2i, and open-weight models.
-- **RAG –** Graph-based retrieval and hybrid search | [LightRAG], [rdflib])
 - **Validation –** Human-in-the-loop workflows and explicit quality control.
-- **Biomedicine –** Cell biology, cancer research, stem cells. 
+- **Biomedicine –** Cell biology, cancer research, stem cells.
 
 
 <br>
 
-## 🛠️ My Tools:
+## 🛠️ My Tools
 
 _Platforms: Linux, Windows/WSL, and macOS._
 
 - **Python –** [PEP 621], [`uv`].
-- **Dev Tooling –** Agentic coding (Codex), CLI tools ([just], [direnv]).
-- **CI/CD**: GitHub Actions, Deploy on [PyPI] & Huggingface
-- **Interfaces –** Web GUIs ([gradio]) | native GUIs ([toga]) | CLIs ([typer]) | TUIs ([textual]) | notebooks ([jupyter]).
+- **Dev Tooling –** `codex`, CLI tools ([`just`], [`direnv`]).
+- **CI/CD –** GitHub Actions, deploy on [PyPI] & [Hugging Face].
+- **Interfaces –** Web GUIs [`gradio`] – native GUIs [`toga`] – CLIs [`typer`] – TUIs [`textual`] – notebooks [`jupyter`].
 
 
 <br>
 
-## 💡 My Projects
-- **[AppRC] –** Python framework for manageable application configuration: [typed-settings], [typer], [textual], and [toga].
-- **haiu –** Agentic AI fused with Knowledge Graphs / [Semantic Web]: [openai], [lightRAG] [rdflib].
-- **[BuildBen] –** Project scaffolding with all my devtools: [`uv`], [just], [direnv], [apprc], etc.
-- **[plotastic] –** Advanced statistics simplified by plot-layout: [seaborn], [pingouin]
-- **[graphigs] –** My own design framework for charts and figures: [graphviz], [pillow]
+## 💡 Some of my Projects
+- **[`apprc`] –** Python framework for managing app configs – [`typed-settings`] [`typer`] [`textual`] [`toga`]
+- **`haiu` –** Agentic AI fused with Knowledge Graphs / [Semantic Web] – [`openai`] [`lightrag`] [`rdflib`]
+- **[`buildben`] –** Project scaffolding with all my devtools – [`uv`] [`just`] [`direnv`],[`apprc`]
+- **[`plotastic`] –** Advanced statistics simplified by plot-layout – [`seaborn`] [`pingouin`]
+- **[`graphigs`] –** My own design framework for charts and figures – [`graphviz`] [`pillow`]
 
 
 ### Fun Side Projects:
-- **[Turtleshapes] –** NFT art with [L‑Systems](https://en.wikipedia.org/wiki/L-system) 
-
-
+- **[Turtleshapes] –** NFT art with [L-Systems].
 
 
 <br>
@@ -108,10 +108,10 @@ _Platforms: Linux, Windows/WSL, and macOS._
   **Digital Humanities –** Developing scientific data infrastructure for historical research. (Project [HisQu])
 
 - [**Doctorate** @ Uni Würzburg]:  
-  **Biomedicine | Statistics –** Linked [~25 genes] to patient survival & metastasis – Developed [`plotastic`] – Trained AI-models for image cytometry – [Thesis] in LaTex 
+  **Biomedicine – Statistics –** Linked [~25 genes] to patient survival & metastasis – Developed [`plotastic`] – Trained AI-models for image cytometry – [Thesis] in LaTeX
 
 - [**Master Thesis** @ Uni Bayreuth]:  
-  **RNA-Biochemistry | Bioinformatics –** siRNA *in-vitro* transcription – RNA-seq library preparation – rRNA/genome mapping – NGS data analysis.
+  **RNA-Biochemistry – Bioinformatics –** siRNA *in-vitro* transcription – RNA-seq library preparation – rRNA/genome mapping – NGS data analysis.
 
 <br>
 
