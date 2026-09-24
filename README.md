@@ -6,11 +6,15 @@
 [`uv`]: https://github.com/astral-sh/uv
 [PEP 621]: https://peps.python.org/pep-0621/
 
-
+[Huggingface]: https://huggingface.co/
+[PyPI]: https://pypi.org/user/markur/
 
 [L-Systems]: https://en.wikipedia.org/wiki/L-system
 [Turtleshapes]: https://opensea.io/collection/turtleshapes-1
+
 [BuildBen]: https://github.com/HisQu/buildben
+
+[graphigs]: https://github.com/markur4/graphigs
 
 [Semantic Web]: https://de.wikipedia.org/wiki/Semantic_Web
 
@@ -29,8 +33,8 @@
 [toga]: https://github.com/beeware/toga
 [openai]: https://github.com/openai/openai-python
 
-[Turtleshapes]: https://en.wikipedia.org/wiki/L-system
 [NFTs]: https://opensea.io/collection/turtleshapes-1
+
 [plotastic]: https://joss.theoj.org/papers/10.21105/joss.06304
 [seaborn]: https://github.com/mwaskom/seaborn
 [pingouin]: https://github.com/raphaelvallat/pingouin
@@ -58,25 +62,24 @@
 
 <br>
 
-## 😍 Favorite Tech:
-- **OS –** Currently all three: Fedora (WSL on Windows) and  MacOS.
-- **Agentic Coding –** Telling Codex how not to slop ...
-- **Python –** My main driver. [PEP 621], [`uv`]. Data Science & Engineering. 
-- **AI –** LoRA training, t2t, t2i, i2i, open‑weight models, etc.
-- **RAG –** Graph-based RAG ([lightRAG]), etc.
-- **Knowledge Graphs –** Semantic web ([rdflib]), etc.
-- **UX –** GUI (Web, OS-native), CLI, TUI [`gradio`], [toga], [jupyter], [typer], [textual].
-- **Validation –** Human-in-the-loop for quality in the current AI-madness 😅
+## 😍 I Like:
+
+- **AI –** Write tools. Very helpful, if used properly.
+- **Data Science & Engineering –** Analysis, automation, quality control.
+- **Validation –** Human-in-the-loop workflows, etc..
+- **Biomedicine –** Cell biology, cancer research, stem cells. 
+
+
 
 
 <br>
 
-## 💡 My Projects:
+## 💡 My Projects
 - **[AppRC] –** Python framework for manageable application configuration: [typed-settings], [typer], [textual], and [toga].
 - **haiu –** Agentic AI fused with Knowledge Graphs / [Semantic Web]: [openai], [lightRAG] [rdflib].
-- **[BuildBen] –** Cookie cutter integrating all my devtools: [`uv`], [just], [direnv], [apprc], etc.
-- **[plotastic] –** Advanced statistics made simple by plot-layout semantics: [seaborn] with [pingouin]
-
+- **[BuildBen] –** Project scaffolding with all my devtools: [`uv`], [just], [direnv], [apprc], etc.
+- **[plotastic] –** Advanced statistics simplified by plot-layout: [seaborn], [pingouin]
+- **[graphigs] –** My own design framework for charts and figures: [graphviz], [pillow]
 
 
 ### Fun Side Projects:
@@ -85,16 +88,30 @@
 
 <br>
 
-## 💼 Mini-CV:
+## 🛠️ My Tools:
+
+_Platforms: Linux, Windows/WSL, and macOS._
+
+- **Python –** [PEP 621], [`uv`].
+- **Dev Tooling –** [just], [direnv].
+- **AI –** Agentic coding, LoRA training, t2t, t2i, i2i, and open-weight models.
+- **RAG –** Graph-based retrieval and hybrid search | [LightRAG], [rdflib])
+- **CI/CD**: GitHub Actions, Deploy on [PyPI] & Huggingface
+- **Interfaces –** Web GUIs ([gradio]) | native GUIs ([toga]) | CLIs ([typer]) | TUIs ([textual]) | notebooks ([jupyter]).
+
+
+<br>
+
+## 💼 Mini-CV
 
 - [**Scientific Software Developer** @ ADWG, Germania Sacra]:  
-  **Digital Humanities –** Developing a scientific data-infrastructue for historical data (Project [HisQu])
+  **Digital Humanities –** Developing scientific data infrastructure for historical research. (Project [HisQu])
 
 - [**Doctorate** @ Uni Würzburg]:  
-  **Biomedicine | Statistics –** Linked [~25 genes] to patient survival & metastasis – Developed [`plotastic`] for analytics – Wrote [Thesis] in `LaTex`,
+  **Biomedicine | Statistics –** Linked [~25 genes] to patient survival & metastasis – Developed [`plotastic`] – Trained AI-models for image cytometry – [Thesis] in LaTex 
 
 - [**Master Thesis** @ Uni Bayreuth]:  
-  **RNA-Biochemistry | Bioinformatics –** IVT of siRNAs – Prepared RNAseq library – Mapped rRNA to Genome – Analysed NGS data.
+  **RNA-Biochemistry | Bioinformatics –** siRNA *in-vitro* transcription – RNA-seq library preparation – rRNA/genome mapping – NGS data analysis.
 
 <br>
 
