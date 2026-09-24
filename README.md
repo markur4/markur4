@@ -38,7 +38,8 @@
 [plotastic]: https://joss.theoj.org/papers/10.21105/joss.06304
 [seaborn]: https://github.com/mwaskom/seaborn
 [pingouin]: https://github.com/raphaelvallat/pingouin
-
+[graphviz]: https://graphviz.org/
+[pillow]: https://github.com/python-pillow/Pillow
 
 [HisQu]: https://github.com/HisQu
 [**Scientific Software Developer** @ ADWG, Germania Sacra]: https://adw-goe.de/germania-sacra/hisqu/
@@ -64,12 +65,23 @@
 
 ## 😍 I Like:
 
-- **AI –** Write tools. Very helpful, if used properly.
-- **Data Science & Engineering –** Analysis, automation, quality control.
-- **Validation –** Human-in-the-loop workflows, etc..
+- **Data Science & Engineering –** Big data, analysis, automation, reproduciblity, etc.
+- **AI –** Agents, LoRA training, t2t, t2i, i2i, and open-weight models.
+- **RAG –** Graph-based retrieval and hybrid search | [LightRAG], [rdflib])
+- **Validation –** Human-in-the-loop workflows and explicit quality control.
 - **Biomedicine –** Cell biology, cancer research, stem cells. 
 
 
+<br>
+
+## 🛠️ My Tools:
+
+_Platforms: Linux, Windows/WSL, and macOS._
+
+- **Python –** [PEP 621], [`uv`].
+- **Dev Tooling –** Agentic coding (Codex), CLI tools ([just], [direnv]).
+- **CI/CD**: GitHub Actions, Deploy on [PyPI] & Huggingface
+- **Interfaces –** Web GUIs ([gradio]) | native GUIs ([toga]) | CLIs ([typer]) | TUIs ([textual]) | notebooks ([jupyter]).
 
 
 <br>
@@ -86,18 +98,6 @@
 - **[Turtleshapes] –** NFT art with [L‑Systems](https://en.wikipedia.org/wiki/L-system) 
 
 
-<br>
-
-## 🛠️ My Tools:
-
-_Platforms: Linux, Windows/WSL, and macOS._
-
-- **Python –** [PEP 621], [`uv`].
-- **Dev Tooling –** [just], [direnv].
-- **AI –** Agentic coding, LoRA training, t2t, t2i, i2i, and open-weight models.
-- **RAG –** Graph-based retrieval and hybrid search | [LightRAG], [rdflib])
-- **CI/CD**: GitHub Actions, Deploy on [PyPI] & Huggingface
-- **Interfaces –** Web GUIs ([gradio]) | native GUIs ([toga]) | CLIs ([typer]) | TUIs ([textual]) | notebooks ([jupyter]).
 
 
 <br>
